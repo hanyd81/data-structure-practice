@@ -1,0 +1,3 @@
+﻿  base convert.cpp
+d:\c++ practice\data-structure-practice\base convert\base convert.cpp(15): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+  base convert.vcxproj -> D:\C++ practice\data-structure-practice\base convert\Debug\base convert.exe
